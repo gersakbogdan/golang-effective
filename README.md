@@ -1,0 +1,4 @@
+golang-effective
+================
+
+Effective Go
