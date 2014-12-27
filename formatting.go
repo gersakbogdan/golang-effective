@@ -15,7 +15,7 @@ type Number struct {
 }
 
 func main() {
-	m := Number{3}
+	m := Number{3, 4}
 
 	// Prints 3
 	fmt.Println(m.X)
